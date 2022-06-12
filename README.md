@@ -7,7 +7,10 @@
 # Buat file baru dengan nama mobil.php
 ![p](pict/gambar1.png)
 ![p](pict/gambar2.png)
+
+# Buat file baru dengan nama form.php
 ![p](pict/gambar3.png)
 ![p](pict/gambar4.png)
+
 ![p](pict/gambar5.png)
 ![p](pict/gambar6.png)
