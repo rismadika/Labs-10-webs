@@ -9,3 +9,4 @@
 ![p](pict/gambar3.png)
 ![p](pict/gambar4.png)
 ![p](pict/gambar5.png)
+![p](pict/gambar6.png)
