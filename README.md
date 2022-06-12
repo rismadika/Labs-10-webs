@@ -4,6 +4,7 @@
 # Kelas : TI.20.D1
 # NIM : 312010051
 
+# Buat file baru dengan nama mobil.php
 ![p](pict/gambar1.png)
 ![p](pict/gambar2.png)
 ![p](pict/gambar3.png)
