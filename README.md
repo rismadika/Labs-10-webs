@@ -12,5 +12,6 @@
 ![p](pict/gambar3.png)
 ![p](pict/gambar4.png)
 
+# Buat file baru dengan nama form_input.php
 ![p](pict/gambar5.png)
 ![p](pict/gambar6.png)
