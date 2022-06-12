@@ -7,4 +7,4 @@
 ![p](pict/gambar1.png)
 ![p](pict/gambar2.png)
 ![p](pict/gambar3.png)
-![p]
+![p](pict/gambar4.png)
